@@ -39,7 +39,7 @@
 }
 
 .slide:nth-of-type(1) {
-  background: red;
+  background: rgb(169, 27, 27);
 }
 
 .slide:nth-of-type(2) {
@@ -59,7 +59,7 @@
 }
 
 .slide:nth-of-type(6) {
-  background: yellow;
+  background: rgb(152, 152, 65);
 }
 
 .slide:nth-of-type(7) {
